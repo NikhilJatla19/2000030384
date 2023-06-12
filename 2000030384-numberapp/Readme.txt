@@ -1,1 +1,1 @@
-2000030384 readme
+install react-rouer-dom and axios to execute the app
